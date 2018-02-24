@@ -1,5 +1,6 @@
 <?php
 // write your code in PHP7.0
+// https://app.codility.com/demo/results/trainingF9XFXJ-GD4/
 $aa = [9, 3, 9, 3, 9, 5, 9, 4,4,3,2,3,2];
 
 function solution($A) {
